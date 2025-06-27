@@ -31,10 +31,11 @@ Clerk: Manages user sessions via OAuth (Google, GitHub) and email/password authe
 
 ### Database :
 🐘 PostgreSQL (Supabase)
-🧬 Prisma ORM: 
+
+🧬 Prisma ORM
 
 ### AI Integration :
-🤖 Gemini API: Processes receipt images and PDFs:
+🤖 Gemini API: Processes receipt images and PDFs.
 
 ### Backend Technology Stack:
 🔄 Inngest: Serverless workflows for: Monthly Reports, Budget Alerts.
